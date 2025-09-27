@@ -223,7 +223,7 @@
             }
           },
           {
-            "id": "077509d2cb1f269f",
+            "id": "81030fadc580f98f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -233,16 +233,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Mes Rdv coaching",
+                  "title": "Exercises Coaching",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Mes Rdv coaching.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mes Rdv coaching\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Exercises Coaching.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exercises Coaching\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "Séance Préliminaire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Séance Préliminaire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Séance Préliminaire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":201},\"to\":{\"line\":7,\"ch\":201}},\"scroll\":0.9523809523809523}"
                 },
                 {
                   "title": "Exercises Coaching",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Exercises Coaching.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exercises Coaching\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.6455399061032864}"
                 },
                 {
                   "title": "Mes Rdv coaching",
@@ -251,23 +257,17 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
-                  "title": "Mon Carnet de Bord à télécharger (et imprimer)",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Atlas/Utilities/Doc/Mon Carnet de Bord à télécharger (et imprimer).pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Mon Carnet de Bord à télécharger (et imprimer)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Coach Pro",
+                  "title": "Séance Préliminaire",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coach Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Coach Pro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":26},\"to\":{\"line\":43,\"ch\":26}},\"scroll\":23.016927083333332}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Séance Préliminaire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Exercises Coaching.md",
+                "file": "+/Séance Préliminaire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -282,7 +282,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exercises Coaching"
+              "title": "Séance Préliminaire"
             }
           }
         ],
@@ -393,7 +393,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "important",
+                "query": "smart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -502,12 +502,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Exercises Coaching.md",
+                "file": "+/Séance Préliminaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exercises Coaching"
+              "title": "Outgoing links from Séance Préliminaire"
             }
           }
         ],
@@ -535,31 +535,34 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "077509d2cb1f269f",
+  "active": "81030fadc580f98f",
   "lastOpenFiles": [
-    "+/Mes Rdv coaching.md",
+    "Atlas/Utilities/Doc/Le feedback.pdf",
+    "Atlas/Utilities/Doc/EXEMPLES DE QUESTIONS INSPIRANTES DANS LA PARTIE GOAL.pdf",
+    "Atlas/Utilities/Doc/Fiche outil Objectif de séance.pdf",
+    "Atlas/Utilities/Doc/Fiche téléchargeable  la reformulation.pdf",
+    "Atlas/Utilities/Doc/Video Seance coaching Déroulé G SMEAC.vtt",
+    "Atlas/Utilities/Doc/~$Modèle Contrat Coaching bipartite.pptx",
+    "Atlas/Utilities/Doc/CW M4_ Questions 1_Premier contact.pdf",
+    "Atlas/Utilities/Doc/LA CONTRIBUTION DU COACH.pdf",
+    "Atlas/Utilities/Doc/Modèle Contrat Coaching bipartite.pptx",
+    "Atlas/Utilities/Doc/Fiche outil séance préliminaire.pdf",
+    "Atlas/Utilities/Doc/Fiche outil Questions de premier contact.pdf",
     "+/Exercises Coaching.md",
-    "Atlas/Utilities/Doc/Mon Carnet de Bord à télécharger (et imprimer).pdf",
-    "Atlas/Utilities/Doc/STRUCTURE D'UN COACHING.pdf",
-    "Atlas/Utilities/Doc/Non confirmé 263882.crdownload",
-    "Atlas/Maps/Coach Pro.md",
-    "Atlas/Utilities/Doc/TYPES DE COACHING PROFESSIONNEL.pdf",
-    "+/Obsidian modeop.md",
-    "+/CW PAI 13 DISTANCIEL M1_Présentation.md",
-    "Atlas/Utilities/Doc/1er PARAMÈTRE  PÉDAGOGIE ACTIVE.pdf",
-    "+/20250905 coach pro day 1.md",
-    "+/20250907 coach pro day 3.md",
+    "+/Séance Préliminaire.md",
+    "+/Mes Rdv coaching.md",
     "+/20250906 coach pro day 2.md",
+    "+/20250907 coach pro day 3.md",
+    "+/todo.md",
+    "+/CW PAI 13 DISTANCIEL M1_Présentation.md",
+    "Atlas/Maps/Coach Pro.md",
+    "+/Obsidian modeop.md",
+    "+/20250905 coach pro day 1.md",
     "+/20251003 coach pro day 5.md",
     "+/20250913 coach pro day 4 capsule.md",
-    "Clippings/CW PAI 13 DISTANCIEL M1_Présentation.pdf",
     "+/WaysBook PAI ICF RNCP 3 V3.md",
     "Atlas/Notes/Ideas/20250818 Analyse interviews equipes.md",
     "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION.md",
-    "Clippings/Mon Carnet de Bord à télécharger (et imprimer).pdf",
-    "Clippings/WaysBook PAI ICF RNCP 3 V3.pdf",
-    "Clippings/~$n Blason 1.docx",
-    "Clippings/~$n Blason.docx",
     "Atlas/Notes/Ideas/recette cookie.md",
     "Atlas/Maps/Keto.md",
     "Atlas/Utilities/Images/Pasted image 20250913115228.png",
@@ -580,8 +583,6 @@
     "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION 2.md",
     "Clippings/Jouer ce module - MA-03 ASSIMILER LE LEXIQUE COACHING WAYS.md",
     "Clippings/Jouer ce module - MA-03 ASSIMILER LE LEXIQUE COACHING WAYS 1.md",
-    "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION 1.md",
-    "Clippings/Les fruits et légumes à privilégier lorsque l'on suit un régime cétogène.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
