@@ -300,13 +300,43 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "todo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/todo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"todo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Obsidian modeop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Obsidian modeop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Obsidian modeop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Git sync modop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Git sync modop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Git sync modop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":33},\"to\":{\"line\":6,\"ch\":33}},\"scroll\":0}"
+                },
+                {
+                  "title": "todo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/todo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"todo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Git sync modop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Git sync modop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Git sync modop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":6},\"to\":{\"line\":11,\"ch\":6}},\"scroll\":6.214538837276123}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Git sync modop.md",
+                "file": "+/Séance Préliminaire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -321,7 +351,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git sync modop"
+              "title": "Séance Préliminaire"
             }
           }
         ],
@@ -541,12 +571,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Git sync modop.md",
+                "file": "+/Séance Préliminaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git sync modop"
+              "title": "Outgoing links from Séance Préliminaire"
             }
           }
         ],
@@ -576,9 +606,10 @@
   },
   "active": "ecd333b83d686d0c",
   "lastOpenFiles": [
-    "Atlas/Utilities/Images/Pasted image 20250927204708.png",
     "+/todo.md",
+    "+/Obsidian modeop.md",
     "+/Git sync modop.md",
+    "Atlas/Utilities/Images/Pasted image 20250927204708.png",
     "+/Séance Préliminaire.md",
     "Atlas/Utilities/Doc/Le feedback.pdf",
     "Atlas/Utilities/Doc/EXEMPLES DE QUESTIONS INSPIRANTES DANS LA PARTIE GOAL.pdf",
@@ -596,7 +627,6 @@
     "+/20250907 coach pro day 3.md",
     "+/CW PAI 13 DISTANCIEL M1_Présentation.md",
     "Atlas/Maps/Coach Pro.md",
-    "+/Obsidian modeop.md",
     "+/20250905 coach pro day 1.md",
     "+/20251003 coach pro day 5.md",
     "+/20250913 coach pro day 4 capsule.md",
@@ -614,7 +644,6 @@
     "Atlas/Utilities/Images/Pasted image 20250913114053.png",
     "Atlas/Utilities/Images/Pasted image 20250913114016.png",
     "Atlas/Utilities/Images/Pasted image 20250913113952.png",
-    "Atlas/Utilities/Images/Pasted image 20250913113536.png",
     "Atlas/Maps/Spirale Dynamique.md",
     "Atlas/Notes/Ideas/dessiner son entreprise.md",
     "Atlas/Maps/EDF Re.md",
