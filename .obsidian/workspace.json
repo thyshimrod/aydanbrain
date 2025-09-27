@@ -233,6 +233,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Séance Préliminaire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Séance Préliminaire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Séance Préliminaire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":60},\"to\":{\"line\":17,\"ch\":60}}}"
+                },
+                {
                   "title": "Exercises Coaching",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Exercises Coaching.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exercises Coaching\"}",
@@ -267,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Séance Préliminaire.md",
+                "file": "+/todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -282,11 +288,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Séance Préliminaire"
+              "title": "todo"
+            }
+          },
+          {
+            "id": "ecd333b83d686d0c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Git sync modop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git sync modop"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -502,12 +541,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Séance Préliminaire.md",
+                "file": "+/Git sync modop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Séance Préliminaire"
+              "title": "Outgoing links from Git sync modop"
             }
           }
         ],
@@ -535,8 +574,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "81030fadc580f98f",
+  "active": "ecd333b83d686d0c",
   "lastOpenFiles": [
+    "Atlas/Utilities/Images/Pasted image 20250927204708.png",
+    "+/todo.md",
+    "+/Git sync modop.md",
+    "+/Séance Préliminaire.md",
     "Atlas/Utilities/Doc/Le feedback.pdf",
     "Atlas/Utilities/Doc/EXEMPLES DE QUESTIONS INSPIRANTES DANS LA PARTIE GOAL.pdf",
     "Atlas/Utilities/Doc/Fiche outil Objectif de séance.pdf",
@@ -547,13 +590,10 @@
     "Atlas/Utilities/Doc/LA CONTRIBUTION DU COACH.pdf",
     "Atlas/Utilities/Doc/Modèle Contrat Coaching bipartite.pptx",
     "Atlas/Utilities/Doc/Fiche outil séance préliminaire.pdf",
-    "Atlas/Utilities/Doc/Fiche outil Questions de premier contact.pdf",
     "+/Exercises Coaching.md",
-    "+/Séance Préliminaire.md",
     "+/Mes Rdv coaching.md",
     "+/20250906 coach pro day 2.md",
     "+/20250907 coach pro day 3.md",
-    "+/todo.md",
     "+/CW PAI 13 DISTANCIEL M1_Présentation.md",
     "Atlas/Maps/Coach Pro.md",
     "+/Obsidian modeop.md",
@@ -582,7 +622,6 @@
     "Clippings/Jouer ce module - M0-05-RNCP3 - A IMPRIMER POUR LE MODULE 1.md",
     "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION 2.md",
     "Clippings/Jouer ce module - MA-03 ASSIMILER LE LEXIQUE COACHING WAYS.md",
-    "Clippings/Jouer ce module - MA-03 ASSIMILER LE LEXIQUE COACHING WAYS 1.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
