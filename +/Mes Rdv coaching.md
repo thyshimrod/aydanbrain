@@ -1,0 +1,46 @@
+---
+tags:
+  - coachpro
+  - mynotes
+---
+1/Binôme : Adeline Mahieu
+5 séance for me x and her : 
+•1 séance préliminaire
+•3 séances de coaching (30 min) 
+•1 séance de bouclage
+
+
+26/09 13h30 test tech
+
+29/09 lundi 18h30 Coaching : 1 séance préliminaire (client: Adeline)
+30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Aydan) (pas de basket 4Arthur)
+
+10/10 vend 17h
+14/10 mardi 18h30 (basket Arthur ?)
+17/10 vend 11h
+18/10 samedi 11h
+20/10 lundi 15h
+24/10 vend 15h
+
+27/10 lundi 15h
+31/10 vend 15h
+
+
+
+*2/Groupe de pairs - Trinome
+Wafaa, Dorra
+
+
+
+**3/Mentor : Blandine Mazurier  -- 18 Nov 13h30
+Envoyer le recording -- 11 Nov ou 12 Nov??
+
+
+1hr entretien individuel
+-1 enregistrement d'une séance de 30 min avec un pair
+-1 retranscription de la séance
+" > Il me semble que votre rôle consisterait à écouter l’enregistrement, m’en faire un retour constructif, puis échanger avec moi lors de l’entretien pour faire le point sur ma posture, mes acquis et mes axes de progression. Coaching Ways devrait revenir vers vous avec davantage de précisions sur le cadre et les attendus de cette démarche"
+
+
+
+***4/Certif : 5 Dec
