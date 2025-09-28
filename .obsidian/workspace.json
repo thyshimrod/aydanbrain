@@ -290,72 +290,9 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "ecd333b83d686d0c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "todo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/todo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"todo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Obsidian modeop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Obsidian modeop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Obsidian modeop\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Git sync modop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Git sync modop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Git sync modop\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":33},\"to\":{\"line\":6,\"ch\":33}},\"scroll\":0}"
-                },
-                {
-                  "title": "todo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/todo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"todo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Git sync modop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Git sync modop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Git sync modop\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":6},\"to\":{\"line\":11,\"ch\":6}},\"scroll\":6.214538837276123}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Séance Préliminaire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Séance Préliminaire"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -571,12 +508,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Séance Préliminaire.md",
+                "file": "+/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Séance Préliminaire"
+              "title": "Outgoing links from todo"
             }
           }
         ],
@@ -604,37 +541,43 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ecd333b83d686d0c",
+  "active": "81030fadc580f98f",
   "lastOpenFiles": [
-    "+/todo.md",
-    "+/Obsidian modeop.md",
-    "+/Git sync modop.md",
-    "Atlas/Utilities/Images/Pasted image 20250927204708.png",
+    "Atlas/Utilities/Doc/Bonnes pratiques pour organiser son mentorat.pdf",
+    "Atlas/Maps/Coach Pro.md",
     "+/Séance Préliminaire.md",
-    "Atlas/Utilities/Doc/Le feedback.pdf",
-    "Atlas/Utilities/Doc/EXEMPLES DE QUESTIONS INSPIRANTES DANS LA PARTIE GOAL.pdf",
-    "Atlas/Utilities/Doc/Fiche outil Objectif de séance.pdf",
-    "Atlas/Utilities/Doc/Fiche téléchargeable  la reformulation.pdf",
-    "Atlas/Utilities/Doc/Video Seance coaching Déroulé G SMEAC.vtt",
+    "Atlas/Maps/EDF Re.md",
+    "Atlas/Maps/BPCE.md",
+    "Atlas/Maps/Spirale Dynamique.md",
+    "Atlas/Notes/Ideas/20250818 Prompt 2 analyse.md",
+    "Atlas/Notes/Ideas/enneagramme 6 vers 9 jobs.md",
+    "Atlas/Maps/Keto.md",
     "Atlas/Utilities/Doc/~$Modèle Contrat Coaching bipartite.pptx",
-    "Atlas/Utilities/Doc/CW M4_ Questions 1_Premier contact.pdf",
-    "Atlas/Utilities/Doc/LA CONTRIBUTION DU COACH.pdf",
-    "Atlas/Utilities/Doc/Modèle Contrat Coaching bipartite.pptx",
-    "Atlas/Utilities/Doc/Fiche outil séance préliminaire.pdf",
+    "Atlas/Notes/Ideas/recette cookie.md",
+    "Atlas/Utilities/Doc/CW PAI 13 DISTANCIEL M1_Présentation.pdf",
+    "Atlas/Utilities/Doc/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION.md",
+    "+/20250905 coach pro day 1.md",
+    "+/todo.md",
+    "Atlas/Utilities/Doc/LES ÉTATS DU MOI EN ANALYSE TRANSACTIONNELLE.pdf",
+    "Atlas/Utilities/Doc/MENTORS observateurs mentorat 1 et 2 non certifiant.xlsx",
+    "Atlas/Utilities/Doc/2021-01 Feedback mentorat CWI.docx",
+    "Atlas/Utilities/Doc/Présentation des types de mentorat .pdf",
+    "Atlas/Utilities/Doc/LES NIVEAUX LOGIQUES DE ROBERT DILTS.pdf",
+    "Atlas/Utilities/Doc/COMPRENDRE L-ALIGNEMENT DES NIVEAUX LOGIQUES.pdf",
     "+/Exercises Coaching.md",
+    "Atlas/Utilities/Doc/COMPRENDRE LA NOTION DE PROJECTION.pdf",
+    "+/Git sync modop.md",
+    "+/Obsidian modeop.md",
+    "Atlas/Utilities/Images/Pasted image 20250927204708.png",
     "+/Mes Rdv coaching.md",
     "+/20250906 coach pro day 2.md",
     "+/20250907 coach pro day 3.md",
     "+/CW PAI 13 DISTANCIEL M1_Présentation.md",
-    "Atlas/Maps/Coach Pro.md",
-    "+/20250905 coach pro day 1.md",
     "+/20251003 coach pro day 5.md",
     "+/20250913 coach pro day 4 capsule.md",
     "+/WaysBook PAI ICF RNCP 3 V3.md",
     "Atlas/Notes/Ideas/20250818 Analyse interviews equipes.md",
     "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION.md",
-    "Atlas/Notes/Ideas/recette cookie.md",
-    "Atlas/Maps/Keto.md",
     "Atlas/Utilities/Images/Pasted image 20250913115228.png",
     "Atlas/Utilities/Images/Pasted image 20250913115143.png",
     "Atlas/Utilities/Images/Pasted image 20250913115050.png",
@@ -644,13 +587,7 @@
     "Atlas/Utilities/Images/Pasted image 20250913114053.png",
     "Atlas/Utilities/Images/Pasted image 20250913114016.png",
     "Atlas/Utilities/Images/Pasted image 20250913113952.png",
-    "Atlas/Maps/Spirale Dynamique.md",
     "Atlas/Notes/Ideas/dessiner son entreprise.md",
-    "Atlas/Maps/EDF Re.md",
-    "Clippings/Jouer ce module - CWM-03 DÉFINIR QUELQUES PRINCIPES DE SOCIOCRATIE.md",
-    "Clippings/Jouer ce module - M0-05-RNCP3 - A IMPRIMER POUR LE MODULE 1.md",
-    "Clippings/Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION 2.md",
-    "Clippings/Jouer ce module - MA-03 ASSIMILER LE LEXIQUE COACHING WAYS.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
