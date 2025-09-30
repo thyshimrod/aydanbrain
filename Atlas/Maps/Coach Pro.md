@@ -2,7 +2,7 @@
 tags:
   - coachpro
 ---
-
+Intro & Info admin 
 [[20250905 coach pro day 1]]
 [[Jouer ce module - CWM-02 COMPRENDRE LE FIL CONDUCTEUR DE LA FORMATION]]
 

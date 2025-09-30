@@ -3,18 +3,16 @@ tags:
   - coachpro
   - mynotes
 ---
-1/Binôme : Adeline Mahieu
+# Binôme : Adeline Mahieu
 5 séance for me x and her : 
 •1 séance préliminaire
+26/09 13h30 test tech SENT
+29/09 lundi 18h30 Coaching : 1 séance préliminaire (client: Adeline) SENT
+30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Aydan) SENT
+02/10 jeudi 17h - 18h Coaching : 1 séance préliminaire (client: Adeline) SENT
+
 •3 séances de coaching (30 min) 
-•1 séance de bouclage
-
-
-26/09 13h30 test tech
-
-29/09 lundi 18h30 Coaching : 1 séance préliminaire (client: Adeline)
-30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Aydan) (pas de basket 4Arthur)
-
+séance normale 1/2/3 donc GROW complet en 30 '
 10/10 vend 17h
 14/10 mardi 18h30 (basket Arthur ?)
 17/10 vend 11h
@@ -22,17 +20,18 @@ tags:
 20/10 lundi 15h
 24/10 vend 15h
 
+•1 séance de bouclage
 27/10 lundi 15h
 31/10 vend 15h
 
 
 
-*2/Groupe de pairs - Trinome
+## Groupe de pairs - Trinome
+
 Wafaa, Dorra
 
 
-
-**3/Mentor : Blandine Mazurier  -- 18 Nov 13h30
+### Mentor : Blandine Mazurier  -- Rdv : 18 Nov @13h30
 Envoyer le recording -- 11 Nov ou 12 Nov??
 
 
@@ -43,4 +42,4 @@ Envoyer le recording -- 11 Nov ou 12 Nov??
 
 
 
-***4/Certif : 5 Dec
+## Certif : 5 Dec

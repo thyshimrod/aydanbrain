@@ -1,3 +1,8 @@
+---
+tags:
+  - coachpro
+  - mynotes
+---
 
 *L'objectif de cette séance préliminaire c'est :
 -le cadre de cette accompagnement

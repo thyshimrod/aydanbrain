@@ -4,8 +4,6 @@ tags:
   - obsidian
 ---
 
-
-
 # Shortcut
 
 ctrl n : nouvelle note
@@ -14,7 +12,7 @@ ctrl shift f : search
 ctrl m : move a note to atlas 
 
 you created a new note and you want to add it in Atlas/Map, in your note : 
-crochet crochet : add a link to a note [[Obsidian modeop]]
+crochet crochet : add a link to a note [[Obsidian MODOP]]
 
 
 # MArkdown
@@ -27,5 +25,3 @@ crochet crochet : add a link to a note [[Obsidian modeop]]
 star : *italique vert*
 star star : **bold**
 # coucou
-
-## coucou 2
