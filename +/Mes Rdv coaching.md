@@ -6,10 +6,10 @@ tags:
 # Binôme : Adeline Mahieu
 5 séance for me x and her : 
 •1 séance préliminaire
-26/09 13h30 test tech SENT
-29/09 lundi 18h30 Coaching : 1 séance préliminaire (client: Adeline) SENT
-30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Aydan) SENT
-02/10 jeudi 17h - 18h Coaching : 1 séance préliminaire (client: Adeline) SENT
+26/09 13h30 test tech 
+29/09 lundi 18h30 Coaching : 1 séance préliminaire 
+30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Adeline) 
+02/10 jeudi 17h - 18h Coaching : 1 séance préliminaire (client: Aydan) 
 
 •3 séances de coaching (30 min) 
 séance normale 1/2/3 donc GROW complet en 30 '
