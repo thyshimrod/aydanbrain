@@ -24,4 +24,4 @@ crochet crochet : add a link to a note [[Obsidian MODOP]]
 "- " : bullet
 star : *italique vert*
 star star : **bold**
-# coucou
+# todo

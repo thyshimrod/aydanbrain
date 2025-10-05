@@ -41,5 +41,15 @@ Envoyer le recording -- 11 Nov ou 12 Nov??
 " > Il me semble que votre rôle consisterait à écouter l’enregistrement, m’en faire un retour constructif, puis échanger avec moi lors de l’entretien pour faire le point sur ma posture, mes acquis et mes axes de progression. Coaching Ways devrait revenir vers vous avec davantage de précisions sur le cadre et les attendus de cette démarche"
 
 
+Audio : 30 min
+Seance complet GROW !
+1 video + transcription à envoyer Blandine !
+
+Swiss transfert pour envoyer le video ou, google drive 
+[swisstransfert.com](https://www.swisstransfer.com/fr-fr)[SwissTransfer - Envoi sécurisé et gratuit de gros fichiers](https://www.swisstransfer.com/fr-fr)
+
+Pour la cerif : 
+-I will be checked on my 8 competences
+-GROW complet
 
 ## Certif : 5 Dec
