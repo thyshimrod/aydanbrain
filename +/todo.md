@@ -7,11 +7,11 @@
 - [x] Annulation Cantine (Arthur)
 - [ ] Prepa Seminar Feedback Aix
 - [ ] Credit M (Arthur) pour la livret A
-- [ ] Rdv Dr. Dupas
+- [x] Rdv Dr. Dupas
 - [ ] Secu ? retour???
 - [ ] Hopital Foch facture
 - [ ] TGV Buy billet La Plagne en Oct !
-- [ ]  Penny game
+- [x]  Penny game
 - [ ] youtube video coaching (post it)
 
 

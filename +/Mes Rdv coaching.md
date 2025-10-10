@@ -14,21 +14,22 @@ tags:
 •3 séances de coaching (30 min) 
 séance normale 1/2/3 donc GROW complet en 30 '
 10/10 vend 17h
-14/10 mardi 18h30 (basket Arthur ?)
-17/10 vend 11h
+14/10 mardi 18h30
+17/10 vend 11h ! (voir Adeline +1hr) -- 12h okey
 18/10 samedi 11h
 20/10 lundi 15h
 24/10 vend 15h
+27/10 lundi 15h
 
 •1 séance de bouclage
-27/10 lundi 15h
 31/10 vend 15h
-
+03/11 lundi 18h
 
 
 ## Groupe de pairs - Trinome
 
 Wafaa, Dorra
++ Valbona
 
 
 ### Mentor : Blandine Mazurier  -- Rdv : 18 Nov @13h30
