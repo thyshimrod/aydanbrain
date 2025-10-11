@@ -9,11 +9,11 @@ tags:
 26/09 13h30 test tech 
 29/09 lundi 18h30 Coaching : 1 séance préliminaire 
 30/09 mardi 18h30 Coaching : 1 séance préliminaire (client: Adeline) 
-02/10 jeudi 17h - 18h Coaching : 1 séance préliminaire (client: Aydan) 
+10/10 jeudi 17h - 18h Coaching : 1 séance préliminaire (client: Aydan) 
 
 •3 séances de coaching (30 min) 
 séance normale 1/2/3 donc GROW complet en 30 '
-10/10 vend 17h
+
 14/10 mardi 18h30
 17/10 vend 11h ! (voir Adeline +1hr) -- 12h okey
 18/10 samedi 11h
