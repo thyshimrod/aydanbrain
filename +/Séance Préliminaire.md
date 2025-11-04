@@ -2,6 +2,9 @@
 tags:
   - coachpro
   - mynotes
+  - questions
+  - example
+  - préliminaire
 ---
 
 *L'objectif de cette séance préliminaire c'est :

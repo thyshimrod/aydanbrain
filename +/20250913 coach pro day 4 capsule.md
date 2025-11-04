@@ -7,6 +7,7 @@ tags:
 Inclusion 15min
 
 Module 1 = 3 jours + capsule 1/2j
+Module integration=capsule
 
 E-Learning :
 Deadline? 5 Oct il faut faire avant le M2

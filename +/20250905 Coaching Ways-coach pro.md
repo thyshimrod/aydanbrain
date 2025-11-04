@@ -33,8 +33,6 @@ Wesign : check mail (to send presences)
 Frederic Perron - Coach - Directeur coaching ways Maroc+ international
 coaching collectif, équipes (module 1 with him)
 
-
-
 # My Bibliohèque (team)
 Nom du Bibliothèque : Bienveillance (sous groupe pour exercises)
 my coach ressources : Thomas BILLET (absences, sujet tech, pour quitter, ou couper le cam,..)

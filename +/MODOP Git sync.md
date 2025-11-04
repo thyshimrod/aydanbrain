@@ -2,6 +2,7 @@
 tags:
   - git
   - sync
+  - modop
 ---
 
 Go to root that u want to sync : 

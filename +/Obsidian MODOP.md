@@ -1,7 +1,8 @@
 ---
-created: 
+created:
 tags:
   - obsidian
+  - modop
 ---
 
 # Shortcut
