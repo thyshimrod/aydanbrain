@@ -9,21 +9,27 @@
 - [x] Credit M (Arthur) pour la livret A
 - [x] Rdv Dr. Dupas
 - [x] Secu FR ? retour???
+- [x] Aix Feedback papers and post it
+- [x] Orogone Amazon HP facture
+- [x] Ass. Sante MAAF résiliation  29/10/2025
+- [x] Ass Sante Abeille : starts 29/11/2025 ? 
 - [ ] Hopital Foch facture
 - [ ] TGV Buy billet La Plagne en Nov ! check
 - [ ] youtube video coaching (post it)
-- [x] Aix Feedback papers and post it
-- [x] Orogone Amazon HP facture
-- [ ] HP call them for changement/reparation 
-- [ ] Orogone NDF payment
-- [ ] Orogone Laurent coopt payment
+- [ ] Orogone NDF payment : check BultenS Nov 2025 ! 
+- [ ] Orogone Laurent coopt payment : check BultenS Nov 2025 ! 
 - [ ] Zoheir fin Nov operation  : Secu
+- [ ] HP call them for changement/reparation 
+- [ ] HP print facture
 - [ ] Regina Doc
 - [ ] Rdv Dr Dupas for my leg
 - [ ] Lab kan testi yaptir
 - [ ] Arthur cantine à partir de Janv ! MAJ à faire
-- [x] Ass. Sante MAAF résiliation  29/10/2025
-- [x] Ass Sante Abeille : starts 29/11/2025
-- [ ] Check both MAAF end and Abeille start
+- [ ] Check both MAAF end 31/12 and Abeille start 01/01 !
+- [ ] Prepare contrat example 05/12
+- [ ] Prepare contrat personnalisé : GROW, CNV, AT, my presentation
+- [ ] Mentorat 1 : with Blandine  : Fiche feedback she has to send me
+- [ ] Mentorat 1 : Fiche feedback Blandine : you have to complete and sign and send to Christine
+- [ ] 
 
 
