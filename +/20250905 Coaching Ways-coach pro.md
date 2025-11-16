@@ -3,6 +3,7 @@ tags:
   - coachpro
   - mynotes
   - clippings
+  - welcome
 ---
 [Christine SOURIOUX](https://coachingways.360learning.com/profile/62165547f328305b7da68438)
 she is the boss
@@ -12,6 +13,7 @@ Christine is coaching Coach ressources :
 Pauline (Ecoute), Thomas (Bienveillance), Shirley (Confiance), Olivier (Puissance)
 
 PAIF-13-DIST
+Bienveillance - Aydan CAM
 
 Promo : PAI 13
 total: 33 ppl 

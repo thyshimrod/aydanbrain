@@ -3,6 +3,8 @@ tags:
   - coachpro
   - clippings
   - mynotes
+  - grow
+  - smartecac
 ---
 Objectif de la jour : processus, structure 
 Exercises 'G' + 'R' 

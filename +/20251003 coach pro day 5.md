@@ -3,6 +3,8 @@ tags:
   - coachpro
   - mynotes
   - clippings
+  - grow
+  - valeur
 ---
 Coach : Robert RIOU
 Module 2+3 : "R"

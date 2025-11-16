@@ -3,6 +3,7 @@ tags:
   - clippings
   - coachpro
   - mynotes
+  - certification
 ---
 
 Questions/Reponses module 4 + RNCP + certif

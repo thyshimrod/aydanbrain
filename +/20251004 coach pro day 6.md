@@ -3,6 +3,8 @@ tags:
   - coachpro
   - mynotes
   - clippings
+  - croyances
+  - cadrans
 ---
 
 

@@ -3,6 +3,8 @@ tags:
   - clippings
   - coachpro
   - mynotes
+  - croyances
+  - cadrans
 ---
 
 Up, purple : pour la croyance

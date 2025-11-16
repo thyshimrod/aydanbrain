@@ -3,6 +3,7 @@ tags:
   - coachpro
   - clippings
   - mynotes
+  - competences
 ---
 
 
