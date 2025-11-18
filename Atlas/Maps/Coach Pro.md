@@ -1,6 +1,10 @@
 ---
 tags:
   - coachpro
+  - clippings
+  - documents
+  - modules
+  - courses
 ---
 Intro & Info admin 
 [[20250905 coach pro day 1]]
