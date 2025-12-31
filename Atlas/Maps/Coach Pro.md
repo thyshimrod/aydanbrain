@@ -113,7 +113,7 @@ Intro & Info admin
 
 [[INTERAGIR AVEC LES ÉMOTIONS DU CLIENT.pdf]]
 
-[[Les sentiments]]
+[[Les sentiments.pdf]]
 
 [[TABLEAU DU MÉTA-MODÈLE LINGUISTIQUE.pdf]]
 
@@ -121,9 +121,47 @@ Intro & Info admin
 
 [[Ma Roue Integrale des Permissions_0711.pdf]]
 
-[[ICF Client Coaching Log_Template]]
+[[COMMENT IDENTIFIER LES CERTITUDES.pdf]]
 
-[[NOM_PARTICIPANT_ Feedback 8C Observation]]
+[[Analyser une séance de coaching.pdf]]
+
+[[LES SCÉNARIOS DE VIE SELON L'AT.pdf]]
+
+[[LES 3 P.pdf]]
+
+[[Les 3 P en Coaching.pdf]]
+
+[[LES TÂCHES, UN INSTRUMENT PRIVILÉGIÉ DE CHANGEMENT.pdf]]
+
+[[TYPES DE TÂCHES.pdf]]
+
+[[UTILISATION DE LA TÂCHE.pdf]]
+
+[[LE RECADRAGE EN PNL.pdf]]
+
+[[CONCEPTS PAR LESQUELS NOUS VIVONS.pdf]]
+
+[[UpdatedPCCMarkers_French_October212020.pdf]]
+
+[[Les marqueurs de competence Level 2.pdf]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

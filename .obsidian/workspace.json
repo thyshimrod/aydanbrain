@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c77a2e7b62357fc",
+        "id": "07a3254532e164d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d80eaf462c9868",
+            "id": "cc754ac00406a38b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,31 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "NOM_PARTICIPANT_ Feedback 8C Observation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/NOM_PARTICIPANT_ Feedback 8C Observation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NOM_PARTICIPANT_ Feedback 8C Observation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "TYPES DE COACHING PROFESSIONNEL",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Atlas/Utilities/Doc/TYPES DE COACHING PROFESSIONNEL.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"TYPES DE COACHING PROFESSIONNEL\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Coach Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coach Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Coach Pro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":24},\"to\":{\"line\":45,\"ch\":24}},\"scroll\":18.997395833333332}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/MODOP Git sync.md",
+                "file": "Atlas/Maps/Coach Pro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MODOP Git sync"
+              "title": "Coach Pro"
             }
           }
         ],
@@ -275,12 +257,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/MODOP Git sync.md",
+                "file": "Atlas/Maps/Coach Pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MODOP Git sync"
+              "title": "Outgoing links from Coach Pro"
             }
           }
         ],
@@ -308,11 +290,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a4d80eaf462c9868",
+  "active": "cc754ac00406a38b",
   "lastOpenFiles": [
-    "+/NOM_PARTICIPANT_ Feedback 8C Observation.md",
-    "Atlas/Utilities/Doc/TYPES DE COACHING PROFESSIONNEL.pdf",
+    "Atlas/Notes/Ideas/20250818 Analyse interviews equipes.md",
+    "Atlas/Notes/Ideas/20250818 Prompt 1 analyse simple.md",
     "Atlas/Maps/Coach Pro.md",
+    "Atlas/Utilities/Doc/Analyser une séance de coaching.pdf",
+    "Atlas/Utilities/Doc/LES SCÉNARIOS DE VIE SELON L'AT.pdf",
+    "Atlas/Utilities/Doc/LES 3 P.pdf",
+    "Atlas/Utilities/Doc/Les 3 P en Coaching.pdf",
+    "Atlas/Utilities/Doc/LES TÂCHES, UN INSTRUMENT PRIVILÉGIÉ DE CHANGEMENT.pdf",
+    "Atlas/Utilities/Doc/TYPES DE TÂCHES.pdf",
+    "Atlas/Utilities/Doc/UTILISATION DE LA TÂCHE.pdf",
+    "Atlas/Utilities/Doc/LE RECADRAGE EN PNL.pdf",
+    "Atlas/Utilities/Doc/CONCEPTS PAR LESQUELS NOUS VIVONS.pdf",
+    "Atlas/Utilities/Doc/UpdatedPCCMarkers_French_October212020.pdf",
+    "+/Les sentiments.md",
+    "+/MODOP Git sync.md",
+    "+/Obsidian MODOP.md",
+    "+/ICF Client Coaching Log_Template.md",
+    "+/NOM_PARTICIPANT_ Feedback 8C Observation.md",
     "+/Tools for coaching - Recording.md",
     "+/20250905 Coaching Ways-coach pro.md",
     "+/todo.md",
@@ -328,7 +325,6 @@
     "+/GROW.md",
     "+/Séance Préliminaire.md",
     "Atlas/Notes/Ideas/recette cookie.md",
-    "Untitled",
     "+/Exercises 4 Coaching.md",
     "+/20251207 coach pro day 15.md",
     "Atlas/Utilities/Images/Pasted image 20251207150611.png",
@@ -342,19 +338,6 @@
     "Atlas/Utilities/Images/Pasted image 20251207111919.png",
     "Atlas/Utilities/Images/Pasted image 20251207110711.png",
     "+/20250905 coach pro day 1.md",
-    "+/20251206 coach pro day 14 ICF.md",
-    "+/20251115 coach pro day 12 capsule.md",
-    "+/20251004 coach pro day 6.md",
-    "+/My Prez.md",
-    "+/MODOP Git sync.md",
-    "Atlas/Utilities/Doc/0-M04-SOCIOCRATIE.pdf",
-    "Atlas/Utilities/Doc/2e PARAMÈTRE LA VISION INTÉGRALE.pdf",
-    "Atlas/Utilities/Doc/CW PAI 13 DISTANCIEL M1_Présentation.pdf",
-    "Atlas/Utilities/Doc/Document de Feedback.pdf",
-    "Atlas/Utilities/Doc/Les sentiments.pdf",
-    "Atlas/Utilities/Doc/2024 01 26 Feedback Mentorat 2 certifiant 8C-ACC MARQUEURS LEVEL 1.pdf",
-    "Atlas/Utilities/Doc/LEVEL 2 - FORMATION ESSENTIEL ET PRATICIEN.pdf",
-    "Atlas/Utilities/Doc/PAI ICF-RNCP DOSSIER CERTIFICATION LEVEL 1&amp;2 Enregistrement de coaching.pdf",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
