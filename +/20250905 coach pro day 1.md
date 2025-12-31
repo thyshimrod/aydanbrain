@@ -7,7 +7,8 @@ tags:
 ---
 
 
-Frederic Perron - Coach - Directeur coaching ways Maroc+ international
+Frederic PERRON - Coach M1
+Directeur coaching ways Maroc+ international
 coaching collectif, équipes (module 1 with him)
 
 

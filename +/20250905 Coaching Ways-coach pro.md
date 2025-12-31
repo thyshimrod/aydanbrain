@@ -18,6 +18,9 @@ Bienveillance - Aydan CAM
 Promo : PAI 13
 total: 33 ppl 
 I am : Level (block) 3 - RNCP
+Zoom
+[Join from Zoom Workplace app - Zoom](https://eu01web.zoom.us/j/64674253947?pwd=vkxdbb286OI32fqbUrcc4S507IodC5.1#success)
+
 
 Heure: Il s’agit d’une réunion récurrente Se rencontrer n’importe quand  
 Participer à la réunion Zoom  

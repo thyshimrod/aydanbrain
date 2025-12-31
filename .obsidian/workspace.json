@@ -4,74 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9ecc13a6181ea0c",
+        "id": "5c77a2e7b62357fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc317fad2da30c5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "NOM_PARTICIPANT_ Feedback 8C Observation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/NOM_PARTICIPANT_ Feedback 8C Observation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NOM_PARTICIPANT_ Feedback 8C Observation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Obsidian MODOP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Obsidian MODOP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Obsidian MODOP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":44},\"to\":{\"line\":15,\"ch\":44}},\"scroll\":4.979253112033195}"
-                },
-                {
-                  "title": "Coach Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coach Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Coach Pro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":35},\"to\":{\"line\":97,\"ch\":35}},\"scroll\":81.6640625}"
-                },
-                {
-                  "title": "LEVEL 1 BLOC 1 - FORMATION ESSENTIEL",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/LEVEL 1 BLOC 1 - FORMATION ESSENTIEL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"LEVEL 1 BLOC 1 - FORMATION ESSENTIEL\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Coach Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coach Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Coach Pro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":27},\"to\":{\"line\":97,\"ch\":27}},\"scroll\":77.49739583333333}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Coach Pro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Coach Pro"
-            }
-          },
-          {
-            "id": "70974867faee8058",
+            "id": "a4d80eaf462c9868",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -79,13 +16,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "NOM_PARTICIPANT_ Feedback 8C Observation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/NOM_PARTICIPANT_ Feedback 8C Observation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NOM_PARTICIPANT_ Feedback 8C Observation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TYPES DE COACHING PROFESSIONNEL",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Atlas/Utilities/Doc/TYPES DE COACHING PROFESSIONNEL.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"TYPES DE COACHING PROFESSIONNEL\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Coach Pro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coach Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Coach Pro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":24},\"to\":{\"line\":45,\"ch\":24}},\"scroll\":18.997395833333332}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Obsidian MODOP.md",
+                "file": "+/MODOP Git sync.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +55,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian MODOP"
+              "title": "MODOP Git sync"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -211,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#La",
+                "query": "recette",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -320,12 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Obsidian MODOP.md",
+                "file": "+/MODOP Git sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian MODOP"
+              "title": "Outgoing links from MODOP Git sync"
             }
           }
         ],
@@ -353,11 +308,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "70974867faee8058",
+  "active": "a4d80eaf462c9868",
   "lastOpenFiles": [
-    "Atlas/Maps/Coach Pro.md",
-    "+/Obsidian MODOP.md",
     "+/NOM_PARTICIPANT_ Feedback 8C Observation.md",
+    "Atlas/Utilities/Doc/TYPES DE COACHING PROFESSIONNEL.pdf",
+    "Atlas/Maps/Coach Pro.md",
+    "+/Tools for coaching - Recording.md",
+    "+/20250905 Coaching Ways-coach pro.md",
+    "+/todo.md",
+    "+/Boite A Outils.md",
+    "+/20251107 coach pro day 9.md",
+    "+/Rdv Clients 16 Dec - 10 Fev.md",
+    "+/2026mmjj Mentoring 2 - Lauranne HILLENWECK.md",
+    "+/Untitled.md",
+    "+/Rdv Coaching Binôme et Mentoring 1.md",
+    "+/20251118 Mentoring 1 - Blandine MAZURIER.md",
+    "+/Prepa - préliminaire.md",
+    "+/La vision Intégrale.md",
+    "+/GROW.md",
+    "+/Séance Préliminaire.md",
+    "Atlas/Notes/Ideas/recette cookie.md",
+    "Untitled",
+    "+/Exercises 4 Coaching.md",
+    "+/20251207 coach pro day 15.md",
+    "Atlas/Utilities/Images/Pasted image 20251207150611.png",
+    "Atlas/Utilities/Images/Pasted image 20251207150533.png",
+    "Atlas/Utilities/Images/Pasted image 20251207150512.png",
+    "Atlas/Utilities/Images/Pasted image 20251207144517.png",
+    "Atlas/Utilities/Images/Pasted image 20251207141622.png",
+    "Atlas/Utilities/Images/Pasted image 20251207140920.png",
+    "Atlas/Utilities/Images/Pasted image 20251207140748.png",
+    "Atlas/Utilities/Images/Pasted image 20251207111937.png",
+    "Atlas/Utilities/Images/Pasted image 20251207111919.png",
+    "Atlas/Utilities/Images/Pasted image 20251207110711.png",
+    "+/20250905 coach pro day 1.md",
+    "+/20251206 coach pro day 14 ICF.md",
+    "+/20251115 coach pro day 12 capsule.md",
+    "+/20251004 coach pro day 6.md",
+    "+/My Prez.md",
+    "+/MODOP Git sync.md",
     "Atlas/Utilities/Doc/0-M04-SOCIOCRATIE.pdf",
     "Atlas/Utilities/Doc/2e PARAMÈTRE LA VISION INTÉGRALE.pdf",
     "Atlas/Utilities/Doc/CW PAI 13 DISTANCIEL M1_Présentation.pdf",
@@ -366,41 +355,6 @@
     "Atlas/Utilities/Doc/2024 01 26 Feedback Mentorat 2 certifiant 8C-ACC MARQUEURS LEVEL 1.pdf",
     "Atlas/Utilities/Doc/LEVEL 2 - FORMATION ESSENTIEL ET PRATICIEN.pdf",
     "Atlas/Utilities/Doc/PAI ICF-RNCP DOSSIER CERTIFICATION LEVEL 1&amp;2 Enregistrement de coaching.pdf",
-    "Atlas/Utilities/Doc/PAI ICF-RNCP-PROF Mars25.pdf",
-    "Atlas/Utilities/Doc/INTERAGIR AVEC LES ÉMOTIONS DU CLIENT.pdf",
-    "+/LEVEL 1 BLOC 1 - FORMATION ESSENTIEL.md",
-    "+/todo.md",
-    "Atlas/Utilities/Doc/Jouer ce module - CWM-03 DÉFINIR QUELQUES PRINCIPES DE SOCIOCRATIE.md",
-    "Atlas/Utilities/Doc/Jouer ce module - M0-05-RNCP3 - A IMPRIMER POUR LE MODULE 1.md",
-    "+/MODOP Git sync.md",
-    "+/20251115 coach pro day 12 capsule.md",
-    "+/Exercises 4 Coaching.md",
-    "Atlas/Utilities/Images/Pasted image 20251115101245.png",
-    "Atlas/Utilities/Images/Pasted image 20251115101225.png",
-    "Atlas/Utilities/Images/Pasted image 20251115101211.png",
-    "Atlas/Utilities/Images/Pasted image 20251115101141.png",
-    "Atlas/Utilities/Images/Pasted image 20251115100847.png",
-    "+/20251109 coach pro day 11.md",
-    "+/20251011 coach pro day 8 capsule.md",
-    "+/20250905 Coaching Ways-coach pro.md",
-    "+/Mes Rdv coaching.md",
-    "+/Prepa - préliminaire.md",
-    "+/Séance Préliminaire.md",
-    "+/20250913 coach pro day 4 capsule.md",
-    "+/20251005 coach pro day 7.md",
-    "Atlas/Utilities/Images/Pasted image 20251109164826.png",
-    "Atlas/Utilities/Images/Pasted image 20251109145125.png",
-    "Atlas/Utilities/Images/Pasted image 20251109144845.png",
-    "Atlas/Utilities/Images/Pasted image 20251109144803.png",
-    "Atlas/Utilities/Images/Pasted image 20251109144608.png",
-    "+/20251108 coach pro day 10.md",
-    "+/La vision Intégrale.md",
-    "Atlas/Maps/Agile.md",
-    "+/20250906 coach pro day 2.md",
-    "+/20250905 coach pro day 1.md",
-    "+/20251107 coach pro day 9.md",
-    "+/20251003 coach pro day 5.md",
-    "+/20250907 coach pro day 3.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

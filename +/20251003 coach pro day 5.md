@@ -6,7 +6,7 @@ tags:
   - grow
   - valeur
 ---
-Coach : Robert RIOU
+Robert RIOU : coach M2
 Module 2+3 : "R"
 
 Module 2 : 

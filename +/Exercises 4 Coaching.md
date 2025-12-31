@@ -23,7 +23,12 @@ Ex 15 : Situation complex avec accompagnement équipe VIR, coaching/coaching agi
 Ex 16 : Communication avec N+2 de l'equipe VIR + et s'affirmer
 EX 17 : Relation avec Gwen ...?
 Ex 18 : positionnement, role SM/Coach chez mon client
-Ex 19 : 
+Ex 19 : BPCE I listen people, they come and start to talk their problems, I do not stop them
+Ex 20 : Gestion du temps et les priorités
+Ex 21: Donner une formation Kanban/ stress
+Ex 22 : Prendre la decision pour changer la mission
+Ex 23 : Money, TJ, nego
+
 
 
 

@@ -6,12 +6,11 @@ tags:
   - injonctions
   - permission
 ---
+Sandrine TRIBOUT :  Coach M3 (life coach) : she is in the list of Mentorat ! 
 Module 3 : Limitation, croyances, emotions
 dépasser les limitations 
-injonctions
+injonctions 
 
-Coach  : Sandrine Tribout (life coach) : she is in the list of Mentorat ! 
-Coach module
 
 Inclusion matin :
 emotions : turbulence, prb de sante, famille, travaille... peur des emotions

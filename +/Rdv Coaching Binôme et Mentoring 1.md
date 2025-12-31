@@ -10,7 +10,6 @@ tags:
 Jitsi Meet
 
 meeting  : cwaydanadeline
-
 [Cwaydanadeline | Jitsi Meet](https://meet.jit.si/cwaydanadeline)
 
 
@@ -44,13 +43,6 @@ séance normale 1/2/3 donc GROW complet en 30 '
 21/11 vend 12h
 
 
-## Groupe de pairs - Trinome
-
-Wafaa, Dorra
-+ Valbona
-+ Wafaa
-
-
 ### Mentor : Blandine Mazurier  -- Rdv : 18 Nov @13h30
 Envoyer le recording -- 11 Nov ou 12 Nov??
 
@@ -72,4 +64,4 @@ Pour la cerif :
 -I will be checked on my 8 competences
 -GROW complet
 
-## Certif : 5 Dec
+
