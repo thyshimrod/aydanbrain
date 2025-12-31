@@ -145,6 +145,22 @@ Intro & Info admin
 
 [[Les marqueurs de competence Level 2.pdf]]
 
+[[Fiche outil séance préliminaire.pdf]]
+
+[[À QUI SERT LE CONTRAT.pdf]]
+
+[[LA SÉANCE PRÉLIMINAIRE.pdf]]
+
+[[ÉTABLIR UN CONTRAT EFFICACE.pdf]]
+
+[[Fiche Le bouclage en coaching.pdf]]
+
+
+
+
+
+
+
 
 
 
