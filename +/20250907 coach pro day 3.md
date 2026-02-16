@@ -64,7 +64,7 @@ Pour se connaitre, creation lien, définir l'objectif de coaching
 
 ![[Pasted image 20250907163531.png]]
 
-Robert Dilts (PNL)
+Robert Dilts
 
 ![[Pasted image 20250907163608.png]]
 

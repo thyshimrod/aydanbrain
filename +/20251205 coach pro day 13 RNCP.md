@@ -7,6 +7,7 @@ tags:
   - coaching
   - préliminaire
   - contrat
+  - module4
 ---
 épreuves **RNCP Bloc 1**
 Ronan CUNY & Katja TONNEL

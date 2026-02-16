@@ -24,5 +24,31 @@ tags:
 
 # Recadrage spatial PNL : 2 polarites, confie des valeurs
 Moi + kucuk kadin 1 + kucuk kadin 2
-
 # New permission // animal, objet or image
+
+# Fichier xls BILAN, Bouclage
+Taches
+
+# CPM : Crapaud - Masque - Prince
+AT
+# Quadrant Ofman
+
+# Double Quadrant
+
+# Life flow 
+
+# Chapeaux de Bono
+
+
+
+
+
+
+
+
+
+
+
+
+
+

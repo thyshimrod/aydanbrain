@@ -5,6 +5,7 @@ tags:
   - coaching
   - coachpro
   - grow
+  - module4
 ---
 Lauranne HILLENWECK
 
@@ -25,11 +26,11 @@ La journée se déroulera comme suit :
 Des pauses seront présentes et suivront le rythme de la journée.  
 Ce moment de M4 est un beau moment d’échanges, de partages pour continuer à évoluer dans le processus. J’ai donc hâte de vous rencontrer pour vivre ce moment ensemble.
 
-1/Aydan // Silvi
+1/Aydan // Silvi 06 29 52 27 76
 15 min : feedback
 
 
-2/Laura coach// Rhita client
+2/Laura coach// Rhita client 06 52 52 55 68
 Coach IA//humaine
 concurrence 
 compliment + outil 

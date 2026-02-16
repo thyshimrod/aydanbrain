@@ -22,31 +22,50 @@
 - [x] Mentorat 1 : with Blandine  : Fiche feedback she has to send me
 - [x] Mentorat 1 : Fiche feedback Blandine : you have to complete and sign and send to Christine
 - [x]  Arthur Bday : 13/12 saturday : Sohan, Louis, Timothe 
-- [ ] Orogone NDF payment : check BultenS Dec 2025 ! 
-- [ ] Orogone Laurent coopt payment : check BultenS Dec 2025 ! 
-- [ ] G Drive : video -- mp3 
-- [ ] Regina Doc
-- [ ] Rdv Dr Dupas for my leg
-- [ ] Lab kan testi yaptir
-- [ ] Arthur cantine à partir de Janv ! MAJ à faire
-- [ ] Check both MAAF end 28/11 and Abeille start 01/12 !
+- [x] Arthur cantine à partir de Janv ! MAJ à faire
 - [x] Hopital Foch facture
 - [x] Call/msg for Thomas (CV ?)
 - [x] Secu Ameli//Abeille
 - [x] Plupay simulation
 - [x] Maaf remboursement le 22 Dec : 93,39 euros
-- [ ] Recording Merc Christine
-- [x] Arthur's passport
-- [ ] Naoual's mail//Orogone/Jadstone/Secu
+- [x]  Arthur's passport
 - [x] Dech : Arthur kayak eldiveni, bot ve polar 
-- [ ] Rent ski voir Pascal
+- [x] Recording Merc Christine
+- [x] Last ski location payment ( check the mail and amount)
+- [x] Naoual's mail//Orogone/Jadstone/Secu
+- [x] Rent ski voir Pascal ! 
+- [ ] Orogone NDF payment : check BultenS Dec 2025 ! 
+- [ ] Orogone Laurent coopt payment : check BultenS Dec 2025 ! 
+- [x] Orogone : Ask Bulten Salaire Decembre 2025
+- [x] G Drive : video -- mp3 (copy, transfert, delete ??)
+- [x] Regina Doc
+- [ ] Rdv Dr Dupas for my leg
+- [ ] Lab kan testi yaptir : 06/01 mardi
+- [x] Check Abeille monthly payment : start 01/12 !
 - [x] Call 2nd Client/coaché : Eric
 - [x] Mail for Lauranne Hillenweck : Rdv mentorat 2 fin Jan ??
 - [x] Mail C.MAANANE contrat de coaching
 - [x] Forward Naoual's mail to Jadstone à Dyhia
-- [ ] youtube video coaching Sandrine
+- [x] youtube video coaching Sandrine
 [Vidéo coaching Sandrine Julie - YouTube](https://www.youtube.com/watch?v=iLTast16ivg&t=102s)
 - [ ] Read "Taches" pdf coaching
+- [x] Mails de Naoual !! 
+- [x] Secu SAM : Print doc and prepare letters to send !
+- [x] AVS OCAS : Print doc and prepare letters to send !
+Action PDU1 + chomages (see mail 2 Janv) : 
+- [x] Demande de Formulaire PDU1** **:** transmettre à l'adresse [u1@sit-syndicat.ch](mailto:u1@sit-syndicat.ch) les documents ci- joint nécessaires à l'établissement du PDU1 : 
+- [x]  Inscription au Pôle Emploi en France :** Inscrivez-vous comme demandeur d'emploi au Pôle Emploi en France immédiatement après la fin de votre emploi en Suisse.
+- [x] Soumission du Formulaire PDU1 :** une fois le formulaire PDU1 transmis, le remettez à votre agence Pôle Emploi en France. Ce document est essentiel pour que le Pôle Emploi prenne en compte vos périodes de cotisation en Suisse.
+- [x] Démarches Administratives :** Suivez les instructions de Pôle Emploi concernant les démarches à effectuer et les documents supplémentaires à fournir.
+- [ ] New declaration Secu CPAM (see with Naoual)
+- [ ] Print formulaire, Secu
+- [ ] Take an appointment Secu CPAM 92
+
+- [ ] Orogone : for Mars 2026 les cooptation (une régularisation de la cooptation à ton retour) see mail 19 Dec Naoual
+- [ ] Demande OCAS aide 300 euros : à refaire 
+- [ ] Visa for London
+- [x] See Yves  : for 4 days (ski)
+- [x] Lauranne Hillenweck recording : ask for video 06 Dec (Silvi? ou Rita?)
 
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07a3254532e164d2",
+        "id": "91440ee6f9f58bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "cc754ac00406a38b",
+            "id": "184a3fae2bfa36ed",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,49 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "todo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/todo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"todo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":34},\"to\":{\"line\":66,\"ch\":34}},\"scroll\":49.37495627841903}"
+                },
+                {
+                  "title": "20251108 coach pro day 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/20251108 coach pro day 10.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20251108 coach pro day 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "10022026 Recording POG brut",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/10022026 Recording POG brut.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"10022026 Recording POG brut\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "20250905 coach pro day 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/20250905 coach pro day 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250905 coach pro day 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "10022026 Recording POG brut",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/10022026 Recording POG brut.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"10022026 Recording PO brut\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":890},\"to\":{\"line\":0,\"ch\":890}}}"
+                },
+                {
+                  "title": "10022026 coaching POG transcript",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/10022026 coaching POG transcript.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"10022026 coaching POG transcript\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":320},\"to\":{\"line\":6,\"ch\":320}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Maps/Coach Pro.md",
+                "file": "+/10022026 coaching POG transcript.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,11 +73,50 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coach Pro"
+              "title": "10022026 coaching POG transcript"
+            }
+          },
+          {
+            "id": "554b7cd713213f2e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10022026 coaching POG transcript 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/10022026 coaching POG transcript 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"10022026 coaching POG transcript 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":294,\"ch\":31},\"to\":{\"line\":294,\"ch\":31}},\"scroll\":20}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/MODOP Git sync.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MODOP Git sync"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 482
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -148,7 +223,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recette",
+                "query": "tag:caochingcollectif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -257,12 +332,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Maps/Coach Pro.md",
+                "file": "+/MODOP Git sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coach Pro"
+              "title": "Outgoing links from MODOP Git sync"
             }
           }
         ],
@@ -290,54 +365,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cc754ac00406a38b",
+  "active": "554b7cd713213f2e",
   "lastOpenFiles": [
-    "+/20251011 coach pro day 8 capsule.md",
-    "Atlas/Maps/Coach Pro.md",
-    "+/20251109 coach pro day 11.md",
-    "+/20251206 coach pro day 14 ICF.md",
+    "+/10022026 coaching POG transcript 2.md",
+    "+/10022026 coaching POG transcript.md",
+    "+/todo.md",
+    "+/20251108 coach pro day 10.md",
+    "+/10022026 Recording POG brut.md",
+    "+/20250905 coach pro day 1.md",
+    "+/Untitled 2.md",
+    "+/Untitled 1.md",
+    "+/Tools for coaching - Recording.md",
+    "+/20260126 Mentoring 2 - Lauranne HILLENWECK.md",
+    "+/20251118 Mentoring 1 - Blandine MAZURIER.md",
+    "+/GROW.md",
+    "+/Rdv Clients 16 Dec - 20 Fev 2026.md",
+    "+/20260208 coach pro day 22.md",
+    "+/20260207 coach pro day 21.md",
+    "+/20250913 coach pro day 4 capsule.md",
+    "Atlas/Utilities/Images/Pasted image 20260213100221.png",
+    "+/Rdv Coaching Binôme et Mentoring 1.md",
+    "+/Prepa - préliminaire.md",
+    "+/Exercises 4 Coaching.md",
+    "Atlas/Utilities/Images/Pasted image 20260208161429.png",
+    "Atlas/Utilities/Images/Pasted image 20260208155547.png",
+    "Atlas/Utilities/Images/Pasted image 20260208155415.png",
+    "Atlas/Utilities/Images/Pasted image 20260208150521.png",
+    "Atlas/Utilities/Images/Pasted image 20260208145707.png",
+    "Atlas/Utilities/Images/Pasted image 20260208140902.png",
+    "+/20260206 coach pro day 20.md",
+    "Atlas/Utilities/Images/Pasted image 20260208114631.png",
+    "+/Boite A Outils.md",
+    "Atlas/Utilities/Images/Pasted image 20260208093638.png",
+    "+/20250905 Coaching Ways-coach pro.md",
+    "+/20260110 coach pro day 17.md",
+    "+/20251207 coach pro day 15.md",
+    "+/20260109 coach pro day 16.md",
+    "+/20251003 coach pro day 5.md",
+    "Atlas/Utilities/Images/Pasted image 20260207145527.png",
+    "Atlas/Utilities/Doc/TEST- DRIVERS.xlsx",
     "Atlas/Utilities/Doc/LA SÉANCE PRÉLIMINAIRE.pdf",
     "Atlas/Utilities/Doc/À QUI SERT LE CONTRAT.pdf",
     "Atlas/Utilities/Doc/ÉTABLIR UN CONTRAT EFFICACE.pdf",
     "Atlas/Utilities/Doc/Fiche Le bouclage en coaching.pdf",
-    "+/Rdv Clients 16 Dec - 10 Fev.md",
     "Atlas/Utilities/Doc/UpdatedPCCMarkers_French_October212020.pdf",
-    "+/20251207 coach pro day 15.md",
-    "Atlas/Notes/Ideas/20250818 Analyse interviews equipes.md",
-    "Atlas/Notes/Ideas/20250818 Prompt 1 analyse simple.md",
     "Atlas/Utilities/Doc/Analyser une séance de coaching.pdf",
     "Atlas/Utilities/Doc/LES SCÉNARIOS DE VIE SELON L'AT.pdf",
     "Atlas/Utilities/Doc/LES 3 P.pdf",
     "Atlas/Utilities/Doc/Les 3 P en Coaching.pdf",
-    "Atlas/Utilities/Doc/LES TÂCHES, UN INSTRUMENT PRIVILÉGIÉ DE CHANGEMENT.pdf",
-    "+/Les sentiments.md",
-    "+/MODOP Git sync.md",
-    "+/Obsidian MODOP.md",
-    "+/ICF Client Coaching Log_Template.md",
-    "+/NOM_PARTICIPANT_ Feedback 8C Observation.md",
-    "+/Tools for coaching - Recording.md",
-    "+/20250905 Coaching Ways-coach pro.md",
-    "+/todo.md",
-    "+/Boite A Outils.md",
-    "+/20251107 coach pro day 9.md",
-    "+/2026mmjj Mentoring 2 - Lauranne HILLENWECK.md",
-    "+/Untitled.md",
-    "+/Rdv Coaching Binôme et Mentoring 1.md",
-    "+/20251118 Mentoring 1 - Blandine MAZURIER.md",
-    "+/Prepa - préliminaire.md",
-    "+/La vision Intégrale.md",
-    "+/GROW.md",
-    "+/Séance Préliminaire.md",
-    "Atlas/Utilities/Images/Pasted image 20251207150611.png",
-    "Atlas/Utilities/Images/Pasted image 20251207150533.png",
-    "Atlas/Utilities/Images/Pasted image 20251207150512.png",
-    "Atlas/Utilities/Images/Pasted image 20251207144517.png",
-    "Atlas/Utilities/Images/Pasted image 20251207141622.png",
-    "Atlas/Utilities/Images/Pasted image 20251207140920.png",
-    "Atlas/Utilities/Images/Pasted image 20251207140748.png",
-    "Atlas/Utilities/Images/Pasted image 20251207111937.png",
-    "Atlas/Utilities/Images/Pasted image 20251207111919.png",
-    "Atlas/Utilities/Images/Pasted image 20251207110711.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

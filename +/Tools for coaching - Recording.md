@@ -20,3 +20,13 @@ Transcript audio to doc :
 To send  :
 [SwissTransfer - Envoi sécurisé et gratuit de gros fichiers](https://www.swisstransfer.com/fr-fr)
 
+
+IA for scripting ? see Thierry
+
+[Claude](https://claude.ai/login)
+
+
+To split video : 
+[Online MP3 Cutter - Cut Songs, Make Ringtones](https://mp3cut.net/fr/)
+
+
