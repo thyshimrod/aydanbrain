@@ -34,13 +34,9 @@
 - [x] Last ski location payment ( check the mail and amount)
 - [x] Naoual's mail//Orogone/Jadstone/Secu
 - [x] Rent ski voir Pascal ! 
-- [ ] Orogone NDF payment : check BultenS Dec 2025 ! 
-- [ ] Orogone Laurent coopt payment : check BultenS Dec 2025 ! 
 - [x] Orogone : Ask Bulten Salaire Decembre 2025
 - [x] G Drive : video -- mp3 (copy, transfert, delete ??)
 - [x] Regina Doc
-- [ ] Rdv Dr Dupas for my leg
-- [ ] Lab kan testi yaptir : 06/01 mardi
 - [x] Check Abeille monthly payment : start 01/12 !
 - [x] Call 2nd Client/coaché : Eric
 - [x] Mail for Lauranne Hillenweck : Rdv mentorat 2 fin Jan ??
@@ -49,6 +45,8 @@
 - [x] youtube video coaching Sandrine
 [Vidéo coaching Sandrine Julie - YouTube](https://www.youtube.com/watch?v=iLTast16ivg&t=102s)
 - [ ] Read "Taches" pdf coaching
+- [ ] Rdv Dr Dupas for my leg
+- [ ] Lab kan testi yaptir : 06/01 mardi
 - [x] Mails de Naoual !! 
 - [x] Secu SAM : Print doc and prepare letters to send !
 - [x] AVS OCAS : Print doc and prepare letters to send !
@@ -57,15 +55,22 @@ Action PDU1 + chomages (see mail 2 Janv) :
 - [x]  Inscription au Pôle Emploi en France :** Inscrivez-vous comme demandeur d'emploi au Pôle Emploi en France immédiatement après la fin de votre emploi en Suisse.
 - [x] Soumission du Formulaire PDU1 :** une fois le formulaire PDU1 transmis, le remettez à votre agence Pôle Emploi en France. Ce document est essentiel pour que le Pôle Emploi prenne en compte vos périodes de cotisation en Suisse.
 - [x] Démarches Administratives :** Suivez les instructions de Pôle Emploi concernant les démarches à effectuer et les documents supplémentaires à fournir.
+- [x] See Yves  : for 4 days (ski)
+- [x] Lauranne Hillenweck recording : ask for video 06 Dec (Silvi? ou Rita?)
+- [ ] Orogone NDF payment : check BultenS Dec 2025 ! 
+- [ ] Orogone Laurent coopt payment : check BultenS Dec 2025 ! 
 - [ ] New declaration Secu CPAM (see with Naoual)
 - [ ] Print formulaire, Secu
 - [ ] Take an appointment Secu CPAM 92
-
 - [ ] Orogone : for Mars 2026 les cooptation (une régularisation de la cooptation à ton retour) see mail 19 Dec Naoual
 - [ ] Demande OCAS aide 300 euros : à refaire 
 - [ ] Visa for London
-- [x] See Yves  : for 4 days (ski)
-- [x] Lauranne Hillenweck recording : ask for video 06 Dec (Silvi? ou Rita?)
+- [ ] Reservation Harry P.
+- [ ] Facture Osteo Remboursement à verifier Abeille
+- [x] Factures Regina : 2 Dec+13 Janv+16 Fev+2 Mars
+- [ ] Facture Regina à envoyer : Abeille
+- [ ] Swica : voir Naoual
+- [ ] Call Swica
 
 
 

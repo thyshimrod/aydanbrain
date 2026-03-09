@@ -27,7 +27,6 @@ Moi + kucuk kadin 1 + kucuk kadin 2
 # New permission // animal, objet or image
 
 # Fichier xls BILAN, Bouclage
-Taches
 
 # CPM : Crapaud - Masque - Prince
 AT
