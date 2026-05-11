@@ -30,3 +30,11 @@ To split video :
 [Online MP3 Cutter - Cut Songs, Make Ringtones](https://mp3cut.net/fr/)
 
 
+To compress audio :
+[Media.io – AI Video, Image & Music Generator](https://www.media.io/)
+
+[Compresseur de fichiers en ligne - Réduisez la taille de vos fichiers](https://www.compress2go.com/fr)
+
+Convertir mp4 to mp3 :
+[Téléchargez votre dossier — Convertio](https://convertio.co/fr/download/a00b48ab77df66000329e1a953f7fbe0455776/)
+
